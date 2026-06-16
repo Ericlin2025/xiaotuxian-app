@@ -1,0 +1,3 @@
+<template>
+    <h2>会员中心</h2>
+</template>
